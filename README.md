@@ -1,4 +1,7 @@
 # Rehabilitando_Nutricion_vite
+
+Deploy on : https://control-nutricional.netlify.app/
+
 En el cuadro derecho se debera colocar la informacion de el paciente sin dejar ningun campo vacio.
 Una vez completado el cuadro se agregara el paciente aparecera en el cuadro derecho.
 Luego tendras dos botones en los cuales puedes editar o eliminar.
